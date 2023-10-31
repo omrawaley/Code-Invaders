@@ -18,7 +18,9 @@ A `CMakeLists.txt` is included and can be used to generate a Makefile using CMak
 
 The binary which comes already included in the `bin` folder may or may not run on your machine due to a multitude of reasons, and if that's the case, then it's highly advisable to generate it again using the `CMakeLists.txt`.
 
-To run the program, `cd` into the `CodeInvaders` directory and run the command `./bin/codeinvaders`. Note: you must run the program from the `CodeInvaders` directory and **not** from the `bin` folder, otherwise textures will be missing.
+To run the program, `cd` into the `CodeInvaders` directory and run the command `./bin/codeinvaders`. 
+
+Note: you must run the program from the `CodeInvaders` directory and **not** from the `bin` folder, otherwise textures will be missing.
 
 ## To do
 - Add a high score list which grabs data from a `.txt` (may be achievable as I've dabbled in the art of [text editors](https://github.com/omrawaley/T-Write-Plus-Plus-Terminal-Based-Text-Editor) before)
