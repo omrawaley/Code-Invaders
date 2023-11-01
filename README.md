@@ -13,6 +13,13 @@ It is highly-customizable and modular. You can easily create your own levels and
 - Python
 - Empty/Space
 
+## Images
+<img width="300" alt="image" src="https://github.com/omrawaley/Code-Invaders/assets/133281331/2147800e-e84f-4f91-9350-5bb373810a93">
+
+<img width="300" alt="image" src="https://github.com/omrawaley/Code-Invaders/assets/133281331/69bc157a-f2b0-4885-bb1b-643d3d35284d">
+
+<img width="300" alt="image" src="https://github.com/omrawaley/Code-Invaders/assets/133281331/175bdb4e-2bfe-40c0-ba3a-a33a19d4fff5">
+
 ## How to run
 A `CMakeLists.txt` is included and can be used to generate a Makefile using CMake. This generated Makefile exports the binary to the `bin` folder. 
 
