@@ -1,7 +1,7 @@
 # Code-Invaders
-Space Invaders but with a coding twist. Developed using only SFML and C++.
+Space Invaders but with a coding twist. Developed using only SFML and C++. This is my first project with SFML.
 
-I've always hated high-level programming languages because they're pretty easy and to be honest, some of those languages (like Python) are more like writing English than writing code! 
+I've always had a hate for high-level programming languages because they're pretty easy and to be honest, some of those languages (like Python) are more like writing English than writing code! 
 
 In this version of Space Invaders, the aliens have been swapped for high-level languages and the player has been swapped with a low-level language.
 
