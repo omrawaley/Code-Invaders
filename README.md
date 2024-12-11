@@ -3,7 +3,7 @@ Space Invaders but with a coding twist. Developed using only SFML and C++. This 
 
 I've always had a hate for high-level programming languages because they're pretty easy and to be honest, some of those languages (like Python) are more like writing English than writing code! 
 
-In this version of Space Invaders, the aliens have been swapped for high-level languages and the player has been swapped with a low-level language.
+In this version of Space Invaders, the aliens have been swapped for high-level languages, and the player has been swapped with a low-level language.
 
 ## Features
 It is highly-customizable and modular. You can easily create your own levels and enemy formations by going into the `levels.h` file. Currently, there are four enemy types:
